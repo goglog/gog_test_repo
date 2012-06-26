@@ -6,3 +6,12 @@ We need data to create commits
 - green
 - red
 - yellow
+
+## Computer artists
+- Alan Turing
+- Grace Hooper ?
+- Linus Torvalds
+- Roland Moreno
+- Steve Jobs
+- Alan Key
+- Douglas Englebart ?
